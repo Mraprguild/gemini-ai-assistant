@@ -28,3 +28,15 @@ A powerful AI assistant built using Google's Gemini AI technology, designed to h
    ```bash
    git clone https://github.com/Mraprguild/gemini-ai-assistant.git
    cd gemini-ai-assistant
+   Install dependencies:
+
+bash
+pip install -r requirements.txt
+Set up your Google API key:
+
+Create a .env file in the root directory
+
+Add your API key:
+
+text
+GEMINI_API_KEY=your_api_key_here
