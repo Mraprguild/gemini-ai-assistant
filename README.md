@@ -32,8 +32,3 @@ A powerful AI assistant built using Google's Gemini AI technology, designed to h
 ```bash 
  pip install -r requirements.txt
 
-3.Set up your Google API key:
-
-Create a .env file in the root directory
-
-Add your API key:
